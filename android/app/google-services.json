@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "80337540451",
+    "project_id": "furtable-4e00e",
+    "storage_bucket": "furtable-4e00e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80337540451:android:8aa7086270999f4ee9af56",
+        "android_client_info": {
+          "package_name": "com.example.furtable"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIUGhQW_-nLHvfdiF6dkVx7E2oiYgHaY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
